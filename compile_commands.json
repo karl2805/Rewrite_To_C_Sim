@@ -1,0 +1,30 @@
+[
+  {
+    "arguments": [
+      "/usr/lib64/ccache/gcc",
+      "-Wall",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "glad.o",
+      "src/glad.c"
+    ],
+    "directory": "/home/karlriedewald/C_Programming/ParticleSim_C",
+    "file": "/home/karlriedewald/C_Programming/ParticleSim_C/src/glad.c",
+    "output": "/home/karlriedewald/C_Programming/ParticleSim_C/glad.o"
+  },
+  {
+    "arguments": [
+      "/usr/lib64/ccache/gcc",
+      "-Wall",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "main.o",
+      "main.c"
+    ],
+    "directory": "/home/karlriedewald/C_Programming/ParticleSim_C",
+    "file": "/home/karlriedewald/C_Programming/ParticleSim_C/main.c",
+    "output": "/home/karlriedewald/C_Programming/ParticleSim_C/main.o"
+  }
+]
